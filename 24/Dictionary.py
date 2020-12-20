@@ -22,7 +22,7 @@ basket = {
 # print(basket)
 #
 # del basket['X Z']
-# print(basket)
+print(basket)
 
 
 d = int(input("input 1 to introduce new player or 2 to delete the player: "))
